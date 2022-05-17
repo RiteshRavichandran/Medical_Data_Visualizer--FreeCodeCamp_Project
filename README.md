@@ -33,3 +33,6 @@ Unit tests are written for you under `test_module.py`.
 ## Run
 > Run Live Demo at [Replit](https://replit.com/@RiteshRavichand/boilerplate-medical-data-visualizer#main.py "Live Demo")
 
+Visit [FreeCodeCamp](https://www.freecodecamp.org/ "FreeCodeCamp") 
+
+![FreeCodeCamp Logo](https://d33wubrfki0l68.cloudfront.net/774b60156d8f103170dc66f3ad10310941114653/da262/img/fcc_secondary_large.svg)
